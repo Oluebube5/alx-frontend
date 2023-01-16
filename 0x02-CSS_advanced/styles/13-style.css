@@ -62,15 +62,15 @@ a:link {
     text-decoration: none;
 }
 
-a:visited {
+a:link:visited {
     font-style: italic;
 }
 
-a:hover {
+a:link:hover {
     text-decoration: underline;
 }
 
-a:active {
+a:link:active {
     color: var(--color-light-grey);
 }
 
